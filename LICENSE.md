@@ -1,4 +1,4 @@
-# 
+# Polymarket AI-powered Trading Bot: trailing-stops & backtesting offers the most advanced Polymarket trading-bot, with trailing-stops and backtesting. Ideal for professional
 
 
 
